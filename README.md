@@ -1,4 +1,4 @@
-# DAY_7_PM_Assignment
+# DAY 7 PM Assignment
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
